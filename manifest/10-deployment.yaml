@@ -18,4 +18,4 @@ spec:
           image: ggnagpae1/bgd:1.0.0
           env:
             - name: COLOR
-              value: blue
+              value: green
